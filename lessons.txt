@@ -3,3 +3,4 @@
 第二次采用master测试conflict解决方案
 第二次采用hot_fix测试conflict解决方案
 第一次采用git_hub测试lessons课程表，而且使用老师的身份来测试的！2021年10月8日
+第二次采用git_hub测试lessons课程表，使用令狐聪作为老师的身份测试conflict 2021年10月8日！！！
